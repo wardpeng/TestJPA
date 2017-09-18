@@ -27,6 +27,7 @@
 		<url-pattern>/Employee.svc/*</url-pattern>
 	</servlet-mapping>
 
+<!-- 
 	<servlet>
 		<servlet-name>hello</servlet-name>
 		<servlet-class>com.sap.ward.web.HelloServlet</servlet-class>
@@ -35,7 +36,7 @@
 		<servlet-name>hello</servlet-name>
 		<url-pattern>/hello</url-pattern>
 	</servlet-mapping>
-
+ -->
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
